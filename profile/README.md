@@ -4,3 +4,4 @@
 (22年4月に mct-jo-ken から Org を移転しました)
 
 公式 Twitter アカウント: [@mct_joken](https://twitter.com/mct_joken)
+![](https://github-readme-stats.vercel.app/api?username=mct-joken)
